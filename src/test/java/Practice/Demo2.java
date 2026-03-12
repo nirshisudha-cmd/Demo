@@ -7,6 +7,7 @@ public class Demo2 {
 		System.out.println("through branch");
 		System.out.println("pull operation to framework directory ");
 		System.out.println("practicing git conflict from automation engineer workspace");
+		System.out.println("practicing git conflict from framework engineer workspace");
 	}
 
 }
